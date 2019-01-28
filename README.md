@@ -1,2 +1,2 @@
 # learning-React
-This repository for self-learning of React
+This repository is for self-learning React
